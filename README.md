@@ -12,7 +12,7 @@ A simple to-do app built using React Native.
 
 1) Clone the repository.
 
-git clone https://github.com/<username>/todo-app.git
+ git clone[ https://github.com/<username>/todo-app.git](https://github.com/JoelJoshi2002/To-do-app)
 
   
 2) Install the dependencies.
