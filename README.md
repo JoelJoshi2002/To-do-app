@@ -30,3 +30,8 @@ npm start
 1) React Native
 
 2) Expo
+
+# Preview
+
+![image](https://github.com/JoelJoshi2002/To-do-app/blob/main/screens/WhatsApp%20Image%202023-01-24%20at%206.44.27%20AM%20(1).jpeg)
+![image](https://github.com/JoelJoshi2002/To-do-app/blob/main/screens/WhatsApp%20Image%202023-01-24%20at%206.44.27%20AM.jpeg)
