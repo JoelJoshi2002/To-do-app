@@ -8,7 +8,7 @@ A simple to-do app built using React Native.
 2) React Native
 3) Expo
 
-#Installation
+# Installation
 
 1) Clone the repository.
 
